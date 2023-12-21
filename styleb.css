@@ -1,0 +1,60 @@
+body {
+    background-image: url(img/banner-bg.png);
+    font-family: Arial, sans-serif;
+}
+
+.navbar{
+    background-color: rgb(9, 9, 63);
+    margin-left: 10%;
+    margin-right: 10%;
+    margin-bottom: 5%;
+    margin-top: 5%;
+    border-radius: 15px;
+
+}
+
+.btn{
+    align-content: end;
+}
+
+.picture{
+    padding-left: 10%;
+    width: 80px;
+    height: 80px;
+}
+
+#main-tabs{
+    background-color: white;
+    padding-top: 10px;
+    padding-bottom: 50px;
+    padding-left: 10%;
+    padding-right: 10%;
+    margin-left: 200px;
+    margin-right: 200px;
+    margin-bottom: 15%;
+    border-radius: 15px;
+    box-shadow: black 15px 15px 10px;
+
+}
+.fable {
+    margin-bottom: 30px;
+}
+
+h2 {
+    color: #3498db;
+    text-align: center;
+    padding-top: 15px;
+    padding-bottom: 25px;
+}
+
+p {
+    line-height: 1.8;
+    padding-bottom: 5%;
+}
+
+.copyright_section {
+    text-align: center;
+    align-content: center;
+    padding: 15px;
+    background-color: #33c52e;
+}
